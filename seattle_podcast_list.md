@@ -6,7 +6,7 @@ author:
 date: "2018-12-05"
 ---
 
-This is a list of the podcasts being produced in the Seattle metropolitan area. We would like this list of Seattle podcasts to be as complete as possible. Any podcast in Seattle or anywhere nearby can be added. [Contributions, corrections, and suggestions are welcome.](https://github.com/jrigden/seattle-podcast-list/issues "Contributions, corrections, and suggestions are welcome.") You can also DM Jason on Twitter: [@mr_rigden](https://twitter.com/mr_rigden) If there are similar lists for Portland or Vancouver, we would love to link to them. 
+This is a list of the podcasts being produced in the Seattle metropolitan area. We would like this list of Seattle podcasts to be as complete as possible. Any podcast in Seattle or anywhere nearby can be added. [Contributions, corrections, and suggestions are welcome](https://github.com/jrigden/seattlepodcasters.com/issues). You can also DM Jason on Twitter: [@mr_rigden](https://twitter.com/mr_rigden) If there are similar lists for Portland or Vancouver, we would love to link to them. 
 
 ## Podcasts About Seattle
 *These are shows that have a regional focus on Seattle.*
@@ -96,6 +96,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Content Strategy Interviews Podcast](https://ellessmedia.com/csi/)**  
 **[Cosing A Problem](http://handcannononline.com/blog/category/podcasting/cosing-a-problem/)**  
 **[Dead Beat Film Society](http://deadbeatfilmsociety.libsyn.com/)**   
+**[Decanted Podcast](https://decantedpodcast.com/)**  
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[The Desk Set](https://kcls.org/browse_program/the-desk-set-podcast/)**   
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
