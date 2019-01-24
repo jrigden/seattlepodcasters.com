@@ -13,11 +13,12 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Hypnos Podcast](https://twitter.com/hypnospod)** - Coming Soon!  
 **[Mina's Story](https://minaspod.tumblr.com/)**  
-**[OZX 9](http://oz-9.com/)**  
+**[Oz 9](http://oz-9.com/)**  
 **[Tides](https://www.tidespodcast.com/)**  
 
 ## Seattle Podcasts About Civics and Politics
 **[The Overcast](https://theovercast.libsyn.com/)**  
+**[Pitchfork Economics with Nick Hanauer](https://itunes.apple.com/us/podcast/pitchfork-economics-with-nick-hanauer/id1445901378)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
 **[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
 **[Seattle Sucks](https://www.seattle.sucks)**  
@@ -31,6 +32,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Cold Cans](https://coldcanspodcast.com/)**  
 **[Decanted Podcast](https://decantedpodcast.com/)**  
 **[The Emulsion Podcast](https://itunes.apple.com/us/podcast/theemulsion-podcast/id1225091020?mt=2)**  
+**[Seattle Foodie Podcast](https://anchor.fm/seattle-foodie-podcast/)**  
 **[Shifties Podcast](https://soundcloud.com/shiftiespodcast)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)**  
@@ -49,6 +51,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 ### Seattle Podcasts About D&D and Tabletop Games
 **[ExQueerience Points](http://www.exqueeriencepoints.com/)**  
+**[Queens of Adventure](https://itunes.apple.com/us/podcast/queens-of-adventure/id1381616065?mt=2)**  
 **[Tales of Swordfall](https://anchor.fm/swordfalldnd)**  
 **[Weal or Woe](https://itunes.apple.com/us/podcast/weal-or-woe/id1416888202?mt=2)**  
 
@@ -63,14 +66,17 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Catching Up On Cinema](http://www.catchinguponcinema.com/)**  
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Dead Beat Film Society](http://deadbeatfilmsociety.libsyn.com/)**   
+**[ExRated](https://www.exratedmovies.com/)**   
 **[FilmWonk](https://itunes.apple.com/us/podcast/filmwonk-podcast-filmwonk.net/id836900261?mt=2&ign-mpt=uo%3D4)**   
 
 
 ## Seattle Podasts About Music
 **[The Biggest Podcast](http://www.thebiggestpodcast.com/)**  
-**[The High Gain](https://www.thehighgain.com/)**  
+**[The Definitives](http://uwpodcast.com/the-definitives/)**  
 **[Free Smoke Podcast](https://soundcloud.com/freesmokepodcast)**  
+**[Groove 206](http://www.dailyuw.com/podcast/article_0c7a0f02-195f-11e9-a5ca-f390767fc656.html)**  
 **[Hidden Jukebox](https://www.hiddenjukebox.com)**  
+**[The High Gain](https://www.thehighgain.com/)**  
 **[Misery Point Radio](http://miserypointradio.podbean.com/)**  
 **[Solving Sounds](http://www.solvingsounds.libsyn.com/)**  
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
@@ -113,12 +119,16 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Age of Independents](https://indie.biz/blog)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
-**[Content Strategy Interviews Podcast](https://ellessmedia.com/csi/)**  
+**[Content Strategy Insights](https://ellessmedia.com/csi/)**  
 **[Decentralize All The Things!](https://www.dattpodcast.com/)**  
 **[Design Goggles](https://soundcloud.com/bandvradio/)**  
+**[Geared Up](https://www.geekwire.com/gearedup/)**  
+**[GeekWire](https://itunes.apple.com/us/podcast/geekwire/id427374434?mt=2)**  
+**[GeekWire Health Tech](https://www.geekwire.com/healthtech/)**  
 **[The Glow Up Podcast](http://theglowupcast.com/)**  
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[The Nori Podcast](https://nori.com/podcast)**  
+**[Number Geek](https://www.geekwire.com/numbersgeek/)**  
 **[Sea-Town Podcast](https://sea-townpodcast.com/)**  
 **[Tenta Podcast](https://anchor.fm/tenta)**  
 **[theupperleft](https://itunes.apple.com/us/podcast/theupperleft/id1382979719?mt=2)**  
@@ -148,6 +158,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Bigfoot and Bob](https://itunes.apple.com/us/podcast/bigfoot-and-bob/id1330898203)**  
 **[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
+**[The Civil Experiment](http://uwpodcast.com/the-civil-experiment/)**  
 **[Cosing A Problem](http://handcannononline.com/blog/category/podcasting/cosing-a-problem/)**  
 **[CreaturePasta](http://www.digitalanddice.com/creaturepasta.html)**  
 **[Depolarize! Podcast ](https://www.badchristian.com/podcast/depolarize/)**   
@@ -168,6 +179,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
 **[Hole In The Head Moto](https://www.holeintheheadmoto.com/)**  
 **[Hoopsmack](https://www.hoopsmack.com/)**  
+**[Hot Takes With Hot Dykes](https://itunes.apple.com/us/podcast/hot-takes-with-hot-dykes/id1310153237?mt=2)**  
 **[How to Live to 200](https://www.livingto200.com/)**  
 **[Interchangeable White Ladies Podcast](https://itunes.apple.com/us/podcast/interchangeable-white-ladies-podcast/id1262284899?mt=2)**  
 **[The Jeremy Mills Podcast](https://itunes.apple.com/us/podcast/the-jeremy-mills-podcast/id1244998389?mt=2)**  
@@ -184,6 +196,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Overheard from Overlake](https://itunes.apple.com/us/podcast/overheard-from-overlake/id1391738624?mt=2)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
+**[Pike Place Podcast](https://itunes.apple.com/us/podcast/pike-place-podcast/id1409485412?mt=2)**  
 **[Podcast Junkie](https://podcastjunkie.podbean.com/)** (From Vancouver, Wa. but close enough.)   
 **[Podcast West Seattle](http://podcastwestseattle.com/)**  
 **[Podcast With No Name](https://itunes.apple.com/us/podcast/podcast-with-no-name/id1364319164?mt=2)**  
@@ -210,12 +223,14 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[So Divine!](http://stephaniegailing.com/so-divine-the-podcast/)**  
 **[SO Unbecoming with Jamie Muskopf ](https://anchor.fm/unbecoming)**  
 **[Spotless Podcast](https://spotlesspod.com/)**  
+**[The Stoop Kings](https://itunes.apple.com/us/podcast/the-stoop-kings-podcast/id1269681748?mt=2)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[That's Weird](http://www.thatsweird.org/)**  
 **[Town Hall Podcasts](https://townhallseattle.org)**  
 **[Town Talk Podcast](https://itunes.apple.com/us/podcast/town-talk/id1166765811?mt=2)**  
 **[Transformational Speaker's Podcast](http://transformationalspeakerspodcast.libsyn.com/)**  
+**[Trust](https://itunes.apple.com/us/podcast/trust/id1195763108?mt=2)**  
 **[TV times Three Podcast](https://itunes.apple.com/us/podcast/tv-times-three-podcast/id292019397?mt=2&ign-mpt=uo%3D4)**  
 **[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)**  
 **[Upgrade Your Frequency with Ella Marie](https://itunes.apple.com/us/podcast/upgrade-your-frequency-with-ella-marie/id1438060110?mt=2)**  
@@ -298,7 +313,10 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Air-Raid Podcast](http://www.air-raid.net)**  
 **[Capitol Ideas: The Washington State House Democratic Caucus Podcast](https://itunes.apple.com/us/podcast/capitol-ideas-washington-state-house-democratic-caucus/id309907242?mt=2)**  
 **[Engineers & Coffee ](http://engineers.coffee)**  
+**[The Enematic Cinematic](https://theenematiccinematic.podbean.com/)**  
 **[Enjoy Seattle](http://enjoyseattlepodcast.libsyn.com/)**  
+**[IMPRV News 9 at 8](https://itunes.apple.com/us/podcast/imprv-news-9-at-8/id1085943539?mt=2)**  
+**[KEXZ The Beacon In The Wastes](https://www.stitcher.com/podcast/dojob-comedy/kexz-the-beacon-in-the-wastes)**  
 **[KUOW's How to Be a Girl](https://www.kuow.org/podcasts/how-to-be-a-girl)**  
 **[KUOW's Second Wave](https://www.kuow.org/podcasts/second-wave)**  
 **[KUOW's terrestrial](https://www.kuow.org/podcasts/terrestrial)**  
